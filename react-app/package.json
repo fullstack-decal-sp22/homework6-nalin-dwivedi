@@ -1,7 +1,7 @@
 {
   "name": "blockly-app",
   "version": "0.1.0",
-  "homepage": "https://fullstack-decal.github.io/homework4-nalin-dwivedi",
+  "homepage": "https://fullstack-decal.github.io/homework6-nalin-dwivedi",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
